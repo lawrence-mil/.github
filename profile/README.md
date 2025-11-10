@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-
+# Stats
 ```txt
 From: 07 March 2025 - To: 07 November 2025
 
